@@ -32,20 +32,7 @@ p {
 }
 
 .logo {
-  width: 100px;
+  width: 90%;
   height: 100px;
 }
 
-code {
-  color: var(--code-base);
-}
-
-.callout {
-  color: var(--callout);
-}
-
-pre {
-  background-color: #15181e;
-  padding: 10px;
-  color: var(--code-base);
-}
